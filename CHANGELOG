@@ -14,7 +14,7 @@ https://github.com/Free-Software-for-Android/AdAway/issues
 * Update libpcap to 1.7.4 release
 * Update tcpdump to 4.7.4 release
 * Update mongoose internal webserver to 6.0 release and add IPv6 support
-* Add enable IPv6 option which adds ::1 to all hosts entries
+* Add enable IPv6 ption which adds ::1 to all hosts entries
 * Improve building hosts file speed by up to 2.5x
 * RevertService uses Target hosts file preference
 * Updates to support Android 6.0 SDK (23)
